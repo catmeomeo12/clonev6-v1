@@ -1,0 +1,49 @@
+[31-May-2024 11:33:57 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: clone in /home/hshopnabathsite/public_html/ajaxs/client/buyProduct.php on line 668
+[31-May-2024 14:55:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined variable: clone in /home/hshopnabathsite/public_html/ajaxs/client/buyProduct.php on line 668
+[06-Jun-2024 22:07:47 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 63
+[06-Jun-2024 22:07:47 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[06-Jun-2024 22:07:47 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[06-Jun-2024 22:11:20 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 63
+[06-Jun-2024 22:11:20 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[06-Jun-2024 22:11:20 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[09-Jun-2024 21:49:05 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 63
+[09-Jun-2024 21:49:05 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[09-Jun-2024 21:49:05 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[09-Jun-2024 21:55:55 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 63
+[09-Jun-2024 21:55:55 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[09-Jun-2024 21:55:55 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[19-Jun-2024 16:09:18 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 63
+[19-Jun-2024 16:09:18 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[19-Jun-2024 16:09:18 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[19-Jun-2024 16:48:17 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: data in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[19-Jun-2024 16:48:17 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[19-Jun-2024 16:55:13 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: data in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[19-Jun-2024 16:55:13 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[19-Jun-2024 17:20:09 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: data in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[19-Jun-2024 17:20:09 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[19-Jun-2024 17:23:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: data in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[19-Jun-2024 17:23:59 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[19-Jun-2024 17:24:03 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: data in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[19-Jun-2024 17:24:03 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[19-Jun-2024 17:31:07 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: data in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[19-Jun-2024 17:31:07 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[19-Jun-2024 17:48:38 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: data in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[19-Jun-2024 17:48:38 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[19-Jun-2024 17:49:59 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: data in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[19-Jun-2024 17:49:59 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[19-Jun-2024 17:51:05 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: data in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[19-Jun-2024 17:51:05 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[19-Jun-2024 17:52:16 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: data in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[19-Jun-2024 17:52:16 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[19-Jun-2024 21:23:40 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: data in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[19-Jun-2024 21:23:40 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[20-Jun-2024 08:54:00 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: data in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[20-Jun-2024 08:54:00 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[20-Jun-2024 09:00:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: data in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[20-Jun-2024 09:00:24 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[20-Jun-2024 09:07:53 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: data in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[20-Jun-2024 09:07:53 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[20-Jun-2024 09:49:08 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: data in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[20-Jun-2024 09:49:08 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[20-Jun-2024 09:53:24 Asia/Ho_Chi_Minh] PHP Notice:  Undefined index: data in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
+[20-Jun-2024 09:53:24 Asia/Ho_Chi_Minh] PHP Notice:  Trying to access array offset on value of type null in /home/hshopnabathsite/public_html/ajaxs/client/napthe.php on line 94
